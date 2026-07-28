@@ -31,3 +31,51 @@ As seguintes fontes foram utilizadas no NotebookLM para a construção do cadern
 
 5. IBM – Artificial Intelligence  
    https://www.ibm.com/topics/artificial-intelligence
+## 💬 Engenharia de Prompts
+
+Durante os estudos no NotebookLM, foram realizados diversos testes de prompts para explorar diferentes formas de obter respostas mais completas e organizadas.
+
+### Prompt 1
+
+**Pergunta:**
+> Explique o que é Inteligência Artificial Generativa de forma simples para um iniciante.
+
+**Resultado:**
+Foi apresentada uma explicação clara, com exemplos práticos e linguagem acessível.
+
+**Aprendizado:**
+Prompts objetivos geram respostas mais fáceis de compreender.
+
+---
+
+### Prompt 2
+
+**Pergunta:**
+> Faça um resumo dos principais conceitos em tópicos.
+
+**Resultado:**
+A IA organizou o conteúdo em uma lista com os pontos mais importantes.
+
+**Aprendizado:**
+Solicitar um formato específico melhora a organização da resposta.
+
+---
+
+### Prompt 3
+
+**Pergunta:**
+> Crie um glossário com os principais termos relacionados à Inteligência Artificial Generativa.
+
+**Resultado:**
+Foi criado um glossário contendo definições dos principais conceitos estudados.
+
+**Aprendizado:**
+O NotebookLM consegue organizar informações de diferentes fontes em um único material de consulta.
+
+---
+
+## ⚠️ Dificuldades Encontradas
+
+- Algumas respostas ficaram muito extensas.
+- Foi necessário reformular alguns prompts para obter respostas mais objetivas.
+- Especificar o formato desejado (lista, tabela ou resumo) melhorou significativamente a qualidade das respostas.
