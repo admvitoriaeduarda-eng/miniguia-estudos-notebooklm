@@ -79,3 +79,62 @@ O NotebookLM consegue organizar informações de diferentes fontes em um único 
 - Algumas respostas ficaram muito extensas.
 - Foi necessário reformular alguns prompts para obter respostas mais objetivas.
 - Especificar o formato desejado (lista, tabela ou resumo) melhorou significativamente a qualidade das respostas.
+## 📚 Miniguia de Estudos
+
+### 📝 Resumo
+
+A Inteligência Artificial Generativa é uma tecnologia capaz de criar novos conteúdos, como textos, imagens, códigos e áudios, a partir de modelos treinados com grandes volumes de dados.
+
+A Engenharia de Prompts consiste na criação de instruções claras e específicas para orientar os modelos de IA, permitindo obter respostas mais precisas, organizadas e úteis.
+
+O NotebookLM é uma ferramenta que auxilia nos estudos ao analisar documentos enviados pelo usuário e gerar resumos, responder perguntas, explicar conceitos e facilitar a revisão do conteúdo.
+
+---
+
+## 📖 Glossário
+
+**Inteligência Artificial (IA):**
+Tecnologia que permite que máquinas executem tarefas que normalmente exigiriam inteligência humana.
+
+**IA Generativa:**
+Tipo de IA capaz de criar conteúdos inéditos, como textos, imagens e códigos.
+
+**Prompt:**
+Comando ou instrução enviada para a IA.
+
+**Engenharia de Prompts:**
+Técnica de elaborar prompts eficientes para obter melhores respostas.
+
+**NotebookLM:**
+Ferramenta do Google que utiliza IA para auxiliar nos estudos a partir de documentos fornecidos pelo usuário.
+
+**LLM (Large Language Model):**
+Modelo de linguagem treinado com grandes volumes de dados para compreender e gerar texto.
+
+---
+
+## 🚀 Prompts Reutilizáveis
+
+- Explique este assunto de forma simples.
+- Faça um resumo em tópicos.
+- Crie um glossário com os principais termos.
+- Elabore um mapa mental do conteúdo.
+- Gere 10 perguntas para revisão.
+- Monte um quiz com respostas.
+- Compare este tema com outro semelhante em formato de tabela.
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- NotebookLM
+- GitHub
+- Markdown
+
+---
+
+## 👩‍💻 Autora
+
+**Vitória Eduarda**
+
+Projeto desenvolvido como parte do desafio prático da DIO sobre NotebookLM e Engenharia de Prompts.
